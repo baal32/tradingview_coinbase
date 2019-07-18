@@ -1,7 +1,6 @@
 coinbase api
 https://api.coinbase.com/v2/
-wgyxzurl93
-rAwZ3QJl4jGAsIwtIg3/TMTi0BHaG5G6eNHhIiFT5FXBFKp7QGn6LlIKD5v7Xpi/z459ZfMZ/RLOCGopS32Kjg==
+
 API key is recommend if you only need to access your own account. All API key requests must be signed and contain the following headers:
 
 CB-ACCESS-KEY The api key as a string
